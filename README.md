@@ -5,7 +5,7 @@ This study advocates for employing advanced computer vision methodologies, inclu
 To achieve this, the pre-trained YOLOv5 model was employed to detect and isolate logos, which were subsequently processed through the VGG16 model for classification purposes. Defective logos were further analyzed using an OpenCV color filter to identify any defects or inconsistencies. The proposed approach can significantly enhance the visual inspection process in the aviation industry.
 
 
-![Image](/home/mbzirc/Desktop/classification_model/result1.png)
-![Image](/home/mbzirc/Desktop/classification_model/result2.png)
-![Image](/home/mbzirc/Desktop/classification_model/result3.png)
-![Image](/home/mbzirc/Desktop/classification_model/result4.png)
+![Image](result1.png)
+![Image](result2.png)
+![Image](result3.png)
+![Image](result4.png)
